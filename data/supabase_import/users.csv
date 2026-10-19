@@ -1,0 +1,53 @@
+user_id,username,password,role,entity_id,biro_id
+1,Biro Manajemen Rantai Pasok - BUBI,pass123,Pengusul,1,1
+2,Staf Analisis Evalua - BUBI,pass123,Pengusul,1,2
+3,Biro Akuntansi - BUBI,pass123,Pengusul,1,3
+4,SILOG Log IKN - IKN,pass123,Pengusul,2,4
+5,Biro General,pass123,Pengusul,3,5
+6,Biro Internal Audit,pass123,Pengusul,3,6
+7,Biro Pengadaan Barang & Jasa - KANTOR PUSAT SILOG,pass123,Pengusul,3,7
+8,Seksi Pengadaan Logistik & Fabrikasi,pass123,Pengusul,3,8
+9,Biro Hukum & Manajemen Risiko,pass123,Pengusul,3,9
+10,Biro Pengembangan Perusahaan,pass123,Pengusul,3,10
+11,"Department Of Safety, Health & Environme - KANTOR PUSAT SILOG",pass123,Pengusul,3,11
+12,Biro SVP Of Strategic,pass123,Pengusul,3,12
+13,Biro Manajemen Rantai Pasok - KANTOR PUSAT SILOG,pass123,Pengusul,3,13
+14,Staf Analisis Evalua - KANTOR PUSAT SILOG,pass123,Pengusul,3,14
+15,Biro Operasional Logistik - KANTOR PUSAT SILOG,pass123,Pengusul,3,15
+16,Biro Truck Operational East Java Area 1 SPV - KANTOR PUSAT SILOG,pass123,Pengusul,3,16
+17,Biro Truck Operational East Java Area 3 SPV - KANTOR PUSAT SILOG,pass123,Pengusul,3,17
+18,Biro Maintenance Section - KANTOR PUSAT SILOG,pass123,Pengusul,3,18
+19,Biro Marketing Non Semen - KANTOR PUSAT SILOG,pass123,Pengusul,3,19
+20,Biro Supply Chain Management,pass123,Pengusul,3,20
+21,Biro Akuntansi - KANTOR PUSAT SILOG,pass123,Pengusul,3,21
+22,Biro Sistem Informasi,pass123,Pengusul,3,22
+23,Biro Pengelolaan Aset & Umum - KANTOR PUSAT SILOG,pass123,Pengusul,3,23
+24,Seksi Keamanan,pass123,Pengusul,3,24
+25,Seksi Pelayanan & Sarana Umum,pass123,Pengusul,3,25
+26,Biro Keuangan & Kinerja Grup - KANTOR PUSAT SILOG,pass123,Pengusul,3,26
+27,Staf Evaluasi Kinerja - KANTOR PUSAT SILOG,pass123,Pengusul,3,27
+28,Biro Sumber Daya Manusia & Pengemb - KANTOR PUSAT SILOG,pass123,Pengusul,3,28
+29,Biro Taskforce Piutang Macet,pass123,Pengusul,3,29
+30,Bagian Operasional - KANTOR PUSAT SILOG,pass123,Pengusul,3,30
+31,Biro Pengadaan Barang & Jasa - LOGISTIK,pass123,Pengusul,4,31
+32,"Department Of Safety, Health & Environme - LOGISTIK",pass123,Pengusul,4,32
+33,Biro Manajemen Rantai Pasok - LOGISTIK,pass123,Pengusul,4,33
+34,Biro Operasional Logistik - LOGISTIK,pass123,Pengusul,4,34
+35,Biro Logistic Semen Padan,pass123,Pengusul,4,35
+36,Biro Truck Operational East Java Area 1 SPV - LOGISTIK,pass123,Pengusul,4,36
+37,Biro Truck Operational East Java Area 3 SPV - LOGISTIK,pass123,Pengusul,4,37
+38,Biro Maintenance Control Section,pass123,Pengusul,4,38
+39,Biro Maintenance Section - LOGISTIK,pass123,Pengusul,4,39
+40,Pallet SPV,pass123,Pengusul,4,40
+41,SILOG Log IKN - LOGISTIK,pass123,Pengusul,4,41
+42,Biro Akuntansi - LOGISTIK,pass123,Pengusul,4,42
+43,Biro Pengelolaan Aset & Umum - LOGISTIK,pass123,Pengusul,4,43
+44,Biro Keuangan & Kinerja Grup - LOGISTIK,pass123,Pengusul,4,44
+45,Staf Evaluasi Kinerja - LOGISTIK,pass123,Pengusul,4,45
+46,Biro Sumber Daya Manusia & Pengemb - LOGISTIK,pass123,Pengusul,4,46
+47,Bagian Operasional - VUBA,pass123,Pengusul,5,47
+48,Biro Forwarding And Non Reguler Service Secti,pass123,Pengusul,5,48
+49,Biro Marketing Non Semen - VUDS,pass123,Pengusul,6,49
+50,Biro Akuntansi - VUDS,pass123,Pengusul,6,50
+51,Biro Forwarding And Non Reguler Ser,pass123,Pengusul,6,51
+52,Bidang Usaha Pelayaran,pass123,Pengusul,7,52
